@@ -5,15 +5,15 @@ class Programm
     static void Main(string[] args)
     {
         A obj = new A();
-        Console.WriteLine(obj.Operation("-"));
+        Console.WriteLine(obj.Operation("*"));
         Console.ReadKey();
     }
 }
  
 class A
 {
-    private int a = 5;
-    private int b = 3;
+    private int a = 14;
+    private int b = 5;
  
     public int с
     {
@@ -24,7 +24,7 @@ class A
     {
         switch (str)
         {
-            case "+": return a + b;
+            case "*": return a * b;
             case "-": return a - b;
         }
  
