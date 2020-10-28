@@ -7,7 +7,7 @@ class Programm
     static void Main(string[] args)
     {
         A classA = new A(2,3);
-        B classB = new B(1,2,3);
+        B classB = new B(4,2,3);
         Console.WriteLine("c2="+classB.c2);
     }
 }
@@ -47,7 +47,7 @@ class B: A
             arr[i] = d*i;
         }
         Console.WriteLine("B:a+b+d= "+(a+b+d));
-    foreach(int i in arr) Console.WriteLine(i);
+        foreach(int i in arr) Console.WriteLine("i="+i);
     }
 
     public B(int d){
@@ -66,6 +66,4 @@ class B: A
 
 
 }
-
 }
-
