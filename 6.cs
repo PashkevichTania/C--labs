@@ -9,11 +9,11 @@ namespace Lab_6
 		{
 			StudentComparer studentComparer = new StudentComparer();
 			Student[] students = {
-				new Student("Bill",1999,6,7,9),
-				new Student("Tom",2001,8,9,4),
-				new Student("Nick",2000,8,10,7),
-				new Student("Ted",2001,8,9,9),
-				new Student("Alex",2000,7,6,5)
+				new Student("Alice",1999,9,9,9),
+				new Student("Tom",2000,8,5,4),
+				new Student("John",2000,9,6,7),
+				new Student("Fred",2001,8,10,9),
+				new Student("Alex",2000,4,4,4)
 			};
 
 			int sortedHead = 0;
