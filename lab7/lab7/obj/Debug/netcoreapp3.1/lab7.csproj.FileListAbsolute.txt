@@ -1,0 +1,15 @@
+E:\programming\CSharpLabs\lab7\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.exe
+E:\programming\CSharpLabs\lab7\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.deps.json
+E:\programming\CSharpLabs\lab7\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.runtimeconfig.json
+E:\programming\CSharpLabs\lab7\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.runtimeconfig.dev.json
+E:\programming\CSharpLabs\lab7\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.dll
+E:\programming\CSharpLabs\lab7\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.pdb
+E:\programming\CSharpLabs\lab7\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csprojAssemblyReference.cache
+E:\programming\CSharpLabs\lab7\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.Form1.resources
+E:\programming\CSharpLabs\lab7\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csproj.GenerateResource.cache
+E:\programming\CSharpLabs\lab7\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfoInputs.cache
+E:\programming\CSharpLabs\lab7\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfo.cs
+E:\programming\CSharpLabs\lab7\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csproj.CoreCompileInputs.cache
+E:\programming\CSharpLabs\lab7\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.dll
+E:\programming\CSharpLabs\lab7\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.pdb
+E:\programming\CSharpLabs\lab7\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.genruntimeconfig.cache
