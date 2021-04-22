@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eyIzHhXFGoN3cndMgr0FJbiy+x2+mQJkJ6Vse0Kz0vSGJPsMYU3nAqfuyvasEuYjH91C0MqAr7rYDio0LplaZw==",
+  "dgSpecHash": "lRWQZ499pjdWP0sSFfiMD7SYbOzRzzVOeWZZkxTJ0J2tO9sI7uJ1UO/bOZbbA+90/4tXGarrxMTp80Z0+lL9Lw==",
   "success": true,
-  "projectFilePath": "E:\\programming\\CSharpLabs\\WinQuestion\\WinQuestion\\lab8_1.csproj",
+  "projectFilePath": "E:\\programming\\CSharpLabs\\lab8_task1\\WinQuestion\\lab8_1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\programming\\CSharpLabs\\WinQuestion\\WinQuestion\\lab8_1.csproj",
+      "projectUniqueName": "E:\\programming\\CSharpLabs\\lab8_task1\\WinQuestion\\lab8_1.csproj",
       "projectName": "lab8_1",
-      "projectPath": "E:\\programming\\CSharpLabs\\WinQuestion\\WinQuestion\\lab8_1.csproj",
+      "projectPath": "E:\\programming\\CSharpLabs\\lab8_task1\\WinQuestion\\lab8_1.csproj",
       "packagesPath": "C:\\Users\\TaniaHP\\.nuget\\packages\\",
-      "outputPath": "E:\\programming\\CSharpLabs\\WinQuestion\\WinQuestion\\obj\\",
+      "outputPath": "E:\\programming\\CSharpLabs\\lab8_task1\\WinQuestion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
