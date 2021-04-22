@@ -1,0 +1,15 @@
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\bin\Debug\netcoreapp3.1\lab8_1.exe
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\bin\Debug\netcoreapp3.1\lab8_1.deps.json
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\bin\Debug\netcoreapp3.1\lab8_1.runtimeconfig.json
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\bin\Debug\netcoreapp3.1\lab8_1.runtimeconfig.dev.json
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\bin\Debug\netcoreapp3.1\lab8_1.dll
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\bin\Debug\netcoreapp3.1\lab8_1.pdb
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\obj\Debug\netcoreapp3.1\lab8_1.csprojAssemblyReference.cache
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\obj\Debug\netcoreapp3.1\task_1.Form1.resources
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\obj\Debug\netcoreapp3.1\lab8_1.csproj.GenerateResource.cache
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\obj\Debug\netcoreapp3.1\lab8_1.AssemblyInfoInputs.cache
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\obj\Debug\netcoreapp3.1\lab8_1.AssemblyInfo.cs
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\obj\Debug\netcoreapp3.1\lab8_1.csproj.CoreCompileInputs.cache
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\obj\Debug\netcoreapp3.1\lab8_1.dll
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\obj\Debug\netcoreapp3.1\lab8_1.pdb
+E:\programming\CSharpLabs\WinQuestion\WinQuestion\obj\Debug\netcoreapp3.1\lab8_1.genruntimeconfig.cache
