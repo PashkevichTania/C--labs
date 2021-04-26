@@ -1,0 +1,11 @@
+E:\programming\csharp\CSharpLabs\WinTimer2\bin\Debug\WinTimer2.exe.config
+E:\programming\csharp\CSharpLabs\WinTimer2\bin\Debug\WinTimer2.exe
+E:\programming\csharp\CSharpLabs\WinTimer2\bin\Debug\WinTimer2.pdb
+E:\programming\csharp\CSharpLabs\WinTimer2\obj\Debug\WinTimer2.csprojAssemblyReference.cache
+E:\programming\csharp\CSharpLabs\WinTimer2\obj\Debug\WinTimer2.Form1.resources
+E:\programming\csharp\CSharpLabs\WinTimer2\obj\Debug\WinTimer2.Properties.Resources.resources
+E:\programming\csharp\CSharpLabs\WinTimer2\obj\Debug\WinTimer2.UserControlTimer2.resources
+E:\programming\csharp\CSharpLabs\WinTimer2\obj\Debug\WinTimer2.csproj.GenerateResource.cache
+E:\programming\csharp\CSharpLabs\WinTimer2\obj\Debug\WinTimer2.csproj.CoreCompileInputs.cache
+E:\programming\csharp\CSharpLabs\WinTimer2\obj\Debug\WinTimer2.exe
+E:\programming\csharp\CSharpLabs\WinTimer2\obj\Debug\WinTimer2.pdb
