@@ -1,0 +1,11 @@
+C:\Users\TaniaHP\Desktop\GSU_WIN_FORMS-lab_9_task_1\WinTimer1\WinTimer1\bin\Debug\WinTimer1.exe.config
+C:\Users\TaniaHP\Desktop\GSU_WIN_FORMS-lab_9_task_1\WinTimer1\WinTimer1\bin\Debug\WinTimer1.exe
+C:\Users\TaniaHP\Desktop\GSU_WIN_FORMS-lab_9_task_1\WinTimer1\WinTimer1\bin\Debug\WinTimer1.pdb
+C:\Users\TaniaHP\Desktop\GSU_WIN_FORMS-lab_9_task_1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csprojAssemblyReference.cache
+C:\Users\TaniaHP\Desktop\GSU_WIN_FORMS-lab_9_task_1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.Form1.resources
+C:\Users\TaniaHP\Desktop\GSU_WIN_FORMS-lab_9_task_1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.Properties.Resources.resources
+C:\Users\TaniaHP\Desktop\GSU_WIN_FORMS-lab_9_task_1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.UserControlTimer.resources
+C:\Users\TaniaHP\Desktop\GSU_WIN_FORMS-lab_9_task_1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.GenerateResource.cache
+C:\Users\TaniaHP\Desktop\GSU_WIN_FORMS-lab_9_task_1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.CoreCompileInputs.cache
+C:\Users\TaniaHP\Desktop\GSU_WIN_FORMS-lab_9_task_1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.exe
+C:\Users\TaniaHP\Desktop\GSU_WIN_FORMS-lab_9_task_1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.pdb
