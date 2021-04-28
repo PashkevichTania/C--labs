@@ -1,0 +1,10 @@
+E:\programming\csharp\CSharpLabs\WinButNum\bin\Debug\WinButNum.exe.config
+E:\programming\csharp\CSharpLabs\WinButNum\bin\Debug\WinButNum.exe
+E:\programming\csharp\CSharpLabs\WinButNum\bin\Debug\WinButNum.pdb
+E:\programming\csharp\CSharpLabs\WinButNum\obj\Debug\WinButNum.csprojAssemblyReference.cache
+E:\programming\csharp\CSharpLabs\WinButNum\obj\Debug\WinButNum.Form1.resources
+E:\programming\csharp\CSharpLabs\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+E:\programming\csharp\CSharpLabs\WinButNum\obj\Debug\WinButNum.csproj.GenerateResource.cache
+E:\programming\csharp\CSharpLabs\WinButNum\obj\Debug\WinButNum.csproj.CoreCompileInputs.cache
+E:\programming\csharp\CSharpLabs\WinButNum\obj\Debug\WinButNum.exe
+E:\programming\csharp\CSharpLabs\WinButNum\obj\Debug\WinButNum.pdb
