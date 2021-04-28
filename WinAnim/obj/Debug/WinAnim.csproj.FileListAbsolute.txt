@@ -1,0 +1,10 @@
+E:\programming\csharp\CSharpLabs\WinAnim\bin\Debug\WinAnim.exe.config
+E:\programming\csharp\CSharpLabs\WinAnim\bin\Debug\WinAnim.exe
+E:\programming\csharp\CSharpLabs\WinAnim\bin\Debug\WinAnim.pdb
+E:\programming\csharp\CSharpLabs\WinAnim\obj\Debug\WinAnim.csprojAssemblyReference.cache
+E:\programming\csharp\CSharpLabs\WinAnim\obj\Debug\WinAnim.Form1.resources
+E:\programming\csharp\CSharpLabs\WinAnim\obj\Debug\WinAnim.Properties.Resources.resources
+E:\programming\csharp\CSharpLabs\WinAnim\obj\Debug\WinAnim.csproj.GenerateResource.cache
+E:\programming\csharp\CSharpLabs\WinAnim\obj\Debug\WinAnim.csproj.CoreCompileInputs.cache
+E:\programming\csharp\CSharpLabs\WinAnim\obj\Debug\WinAnim.exe
+E:\programming\csharp\CSharpLabs\WinAnim\obj\Debug\WinAnim.pdb
