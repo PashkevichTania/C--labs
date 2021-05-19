@@ -1,0 +1,11 @@
+C:\Users\tania\Desktop\GSU_WIN_FORMS-lab_13\WindowsFormsPaint\WindowsFormsPaint\bin\Debug\WindowsFormsPaint.exe.config
+C:\Users\tania\Desktop\GSU_WIN_FORMS-lab_13\WindowsFormsPaint\WindowsFormsPaint\bin\Debug\WindowsFormsPaint.exe
+C:\Users\tania\Desktop\GSU_WIN_FORMS-lab_13\WindowsFormsPaint\WindowsFormsPaint\bin\Debug\WindowsFormsPaint.pdb
+C:\Users\tania\Desktop\GSU_WIN_FORMS-lab_13\WindowsFormsPaint\WindowsFormsPaint\obj\Debug\WindowsFormsPaint.csprojAssemblyReference.cache
+C:\Users\tania\Desktop\GSU_WIN_FORMS-lab_13\WindowsFormsPaint\WindowsFormsPaint\obj\Debug\WindowsFormsPaint.ColorsForm.resources
+C:\Users\tania\Desktop\GSU_WIN_FORMS-lab_13\WindowsFormsPaint\WindowsFormsPaint\obj\Debug\WindowsFormsPaint.Form1.resources
+C:\Users\tania\Desktop\GSU_WIN_FORMS-lab_13\WindowsFormsPaint\WindowsFormsPaint\obj\Debug\WindowsFormsPaint.Properties.Resources.resources
+C:\Users\tania\Desktop\GSU_WIN_FORMS-lab_13\WindowsFormsPaint\WindowsFormsPaint\obj\Debug\WindowsFormsPaint.csproj.GenerateResource.cache
+C:\Users\tania\Desktop\GSU_WIN_FORMS-lab_13\WindowsFormsPaint\WindowsFormsPaint\obj\Debug\WindowsFormsPaint.csproj.CoreCompileInputs.cache
+C:\Users\tania\Desktop\GSU_WIN_FORMS-lab_13\WindowsFormsPaint\WindowsFormsPaint\obj\Debug\WindowsFormsPaint.exe
+C:\Users\tania\Desktop\GSU_WIN_FORMS-lab_13\WindowsFormsPaint\WindowsFormsPaint\obj\Debug\WindowsFormsPaint.pdb
